@@ -3,7 +3,7 @@
 ## Docker Installation
 Quickly install Docker on different operating systems and verify the installation.
 
-### Ubuntu (Linux)
+### Linux
 ```bash
 sudo apt-get update
 sudo apt-get install ca-certificates curl gnupg lsb-release
