@@ -33,23 +33,7 @@ A Complete Docker Guide for Developers & DevOps Engineers
   docker rmi myapp                 `Remove local image`
 
 ```
-- [Docker Compose](docker_compose/README.md)
-```bash
-  docker-compose up               `Start services from docker-compose.yml`
-  docker-compose down             `Stop and remove services`
-  docker-compose ps               `View status of services`
-  docker-compose logs             `View logs of services`
-  docker-compose build            `Build images defined in docker-compose.yml`
 
-```
-- [Docker Volumes](docker_volumes/README.md)
-```bash
-  docker volume ls                `List volumes`
-  docker volume create myvolume   `Create a volume`
-  docker run -v myvolume:/data nginx `Mount a volume to container`
-  docker volume rm myvolume       `Remove a volume`
-
-```
 - [Docker Networks](doker_networks/README.md)
 ```bash
   docker network ls               `List all networks`
@@ -60,3 +44,21 @@ A Complete Docker Guide for Developers & DevOps Engineers
 
 ```
 
+- [Docker Compose](docker_compose/README.md)
+```bash
+  docker-compose up               `Start services from docker-compose.yml`
+  docker-compose down             `Stop and remove services`
+  docker-compose ps               `View status of services`
+  docker-compose logs             `View logs of services`
+  docker-compose build            `Build images defined in docker-compose.yml`
+
+```
+
+- [Docker Volumes](docker_volumes/README.md)
+```bash
+  docker volume ls                `List volumes`
+  docker volume create myvolume   `Create a volume`
+  docker run -v myvolume:/data nginx `Mount a volume to container`
+  docker volume rm myvolume       `Remove a volume`
+
+```
