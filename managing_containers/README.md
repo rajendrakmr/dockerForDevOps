@@ -6,7 +6,8 @@ Easily create, run, stop, and remove containers with these commands:
 ```bash
     docker run hello-world
 ```
-![image](assets/Screenshot1.png)
+ ![Docker Run Screenshot](../assets/Screenshot1.png)  
+  *Example output of running `hello-world`.*
 
 - `docker ps`  | "List running containers."
 ```bash
