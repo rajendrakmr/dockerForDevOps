@@ -34,8 +34,8 @@ Quickly manage networks: create, connect, inspect, and remove.
    docker network inspect mynetwork
 
 ```
-![Docker Run Screenshot4](../assets/networks/Screenshot4.png)  
-![Docker Run Screenshot5](../assets/networks/Screenshot5.png)    
+![Docker Run Screenshot4](../assets/networks/Screenshot5.png)  
+![Docker Run Screenshot5](../assets/networks/Screenshot6.png)    
 
 
 
