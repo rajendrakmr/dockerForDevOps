@@ -1,5 +1,5 @@
-## Managing Images
-Quickly manage Docker images: list, pull, remove, and inspect them.
+## Build Images
+Quickly manage Docker images: build, push, tag, and rmi them.
 
 *Example output of running `build`.*
    - `docker build -t <image-name>`  - "Build image from Dockerfile in current directory"
