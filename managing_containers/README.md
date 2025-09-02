@@ -4,12 +4,13 @@ Easily create, run, stop, and remove containers with these commands:
 
 *Example output of running `hello-world`.*
    - `docker run hello-world`  - "Run a test container if image not preset in local then download from docker registry"
-        ```bash
-            docker run hello-world
-            -- only for download the image
-            docker pull hello-world
-        ```
-   ![Docker Run Screenshot](../assets/manage/Screenshot1.png)  
+
+```bash
+      docker run hello-world
+      -- only for download the image
+      docker pull hello-world
+   ```
+![Docker Run Screenshot](../assets/manage/Screenshot1.png)  
     
 
 *Example output of running `docker ps`.*
