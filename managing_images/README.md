@@ -24,7 +24,7 @@ Quickly manage Docker images: list, pull, remove, and inspect them.
 ```bash
    docker rmi af677e77d360 
 ```
-![Docker Run Screenshot3](../assets/manage/Screenshot3.png)  
+![Docker Run Screenshot3](../assets/images/Screenshot3.png)  
    
 
 *Example output of running `docker inspect`.*
@@ -32,5 +32,5 @@ Quickly manage Docker images: list, pull, remove, and inspect them.
 ```bash
    docker inspect a97d82f709e2
 ```
-![Docker Run Screenshot4](../assets/manage/Screenshot4.png)  
+![Docker Run Screenshot4](../assets/images/Screenshot4.png)  
  
