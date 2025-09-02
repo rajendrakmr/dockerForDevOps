@@ -11,6 +11,7 @@ A Complete Docker Guide for Developers & DevOps Engineers
   docker stop <container_id>      # Stop a running container
   docker start <container_id>     # Start a stopped container
   docker restart <container_id>   # Restart a container
+  docker kill <container_id>      # Before remove kill a container
   docker rm <container_id>        # Remove a container
   docker logs <container_id>      # View logs of a container
   docker exec -it <container_id> /bin/sh # Access container shell
