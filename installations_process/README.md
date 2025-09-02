@@ -2,8 +2,8 @@
 ## Managing Containers
 Easily create, run, stop, and remove containers with these commands:
 
-- `docker run hello-world`  
-  Run a test container.
+- `docker run hello-world`   Run a test container.
+ 
 
 - `docker ps`  
   List running containers.
