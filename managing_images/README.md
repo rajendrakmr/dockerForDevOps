@@ -33,4 +33,4 @@ Quickly manage Docker images: list, pull, remove, and inspect them.
    docker inspect a97d82f709e2
 ```
 ![Docker Run Screenshot4](../assets/images/Screenshot4.png)  
- 
+
